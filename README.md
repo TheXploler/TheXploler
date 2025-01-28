@@ -12,6 +12,7 @@
 
 <h2 align="center">💻 My projects</h2>
 <p align="center">🦊 <a href="https://discord.com/api/oauth2/authorize?client_id=986617441176125480&permissions=8&scope=bot"><code>Furbot</code></a></p>
+<p align="center">🔗 <a href="https://fandrest.my.id/Link%20Lodge/index.html"><code>Link Lodge</code></a></p>
 
 <h2 align="center">✉️ Contact me</h2>
 <p align="center">Email: <a href="mailto:fandrest@duck.com"><code>fandrest@duck.com</code></a></p>
